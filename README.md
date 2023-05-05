@@ -5,4 +5,4 @@ calculator made for basic mathematics operations using HTML , CSS and JavaScript
 # Link To Website
 [click here](https://kanchandhoot22.github.io/Basic-Calculator.github.io/)
 # Feedback
-for any suggestion , you may reach me out at [kanchandhoot3@gmail.com](kanchandhoot3@gmail.com)
+for any suggestion , you may reach me out at amritanshu030801@gmail.com
